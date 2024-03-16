@@ -1,0 +1,6 @@
+Build a node project, install Express.
+Add app.js file to create a server.
+Add route.js file, and create 3 router in this file (request '/', response 'home page'; request '/login', response 'login page'; request '/register', response 'register page'; for all other request, response 'page not found')
+Run your server, test your routing.
+Create .gitignore file, write node_modules in this file to ignore this folder when pushing to github.
+Push your code to your GitHub
